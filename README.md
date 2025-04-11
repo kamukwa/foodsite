@@ -1,5 +1,7 @@
 
 
+---
+
 # Adnan’s Kitchen  
 #### A simple and clean food delivery website, April 2025  
 #### By **Kamukwa**
@@ -39,4 +41,6 @@ If you find bugs or have cool ideas, feel free to contact me or open an issue on
 
 ## License  
 *MIT License*  
-Copyright (c) 2025 **Kamukwah**
+Copyright (c) 2025 **Kamukwa**
+
+---
